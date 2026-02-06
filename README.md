@@ -38,5 +38,7 @@ The app fetches real-time weather data using the **OpenWeather API** and allows 
 3. Add your OpenWeather API key in script.js
 
 4. Open index.html using Live Server
+⚠️ Note: API key is included only for demo purposes.  
+In real-world applications, API keys should be stored securely.
 ## Author
 Mansi Bhole
